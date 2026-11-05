@@ -1,6 +1,6 @@
 # RTI Telangana
 
-> Fieldwork is consolidated in [in-rolls/rti](https://github.com/in-rolls/rti). Use the [shared viewer](https://in-rolls.github.io/rti/) for all states. This repository preserves the original study records and is no longer maintained. Analysis and the paper are in [in-rolls/rti-analysis](https://github.com/in-rolls/rti-analysis).
+> Fieldwork is consolidated in [in-rolls/rti](https://github.com/in-rolls/rti). Use the [shared viewer](https://in-rolls.github.io/rti/) for all states. This repository preserves the original study records and is no longer maintained. Analysis and the paper are in [in-rolls/rti_analysis](https://github.com/in-rolls/rti_analysis).
 
 
 Reproducible sampling, RA assignments, and a tracking dashboard for filing
@@ -11,7 +11,7 @@ extension of the Tamil Nadu pipeline in
 universe, freeze the frame, one seeded draw, randomized treatment
 assignment, balanced RA worklists, and a static GitHub Pages viewer.
 
-**Dashboard:** https://in-rolls.github.io/rti-telangana/
+**Dashboard:** https://in-rolls.github.io/rti_telangana/
 
 ## The universe
 
